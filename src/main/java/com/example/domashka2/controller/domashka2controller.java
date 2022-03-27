@@ -8,6 +8,7 @@ public class domashka2controller {
     @GetMapping
     public String printHello() {
 return "Hello, World!";
+
     }
     }
 
